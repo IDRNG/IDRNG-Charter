@@ -1,6 +1,6 @@
-# Proposed Charter for Next-Generation Inter-Domain Routing Architecture and Protocols Research Group (IDRNG)
+# Proposed Charter for Next-Generation Inter-Domain Routing Architecture and Protocols (IDRNG)
 
-The Next-Generation Inter-Domain Routing Architecture and Protocols Research Group (IDRNG) investigates architecture, protocol, manageability, and operational questions for inter-domain routing in the AI era.
+The Next-Generation Inter-Domain Routing Architecture and Protocols (IDRNG) investigates architecture, protocol, manageability, and operational questions for inter-domain routing in the AI era.
 
 The group focuses on networking across heterogeneous administrative domains (ASes, operators, cloud/edge providers, IXPs, overlays), where connectivity and policy reflect diverse business objectives, security postures, compute availability, and regulatory constraints. These environments increasingly couple control-plane logic with programmable data planes and distributed compute fabrics supporting AI workloads.
 
